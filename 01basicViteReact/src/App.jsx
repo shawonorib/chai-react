@@ -1,9 +1,11 @@
-
+import Shawon from "./shawon"
 
 function App() {
+  const username = "Shawonnnnnnnnnnnnnnn"
   return (
     <>
-      <p>I am Shawon</p>  
+      <Shawon />
+      <h1>hellllo {username}</h1>
     </>
   )
 }
